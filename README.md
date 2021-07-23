@@ -1,2 +1,2 @@
 # mysql_study
-mysql study
+mysqlworkbench
