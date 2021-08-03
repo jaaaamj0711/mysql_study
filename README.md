@@ -1,2 +1,3 @@
 # mysql_study
-mysqlworkbench
+mysqlworkbench install
+jupyternotebook
